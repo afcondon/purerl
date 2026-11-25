@@ -29,3 +29,4 @@ TAGS
 *.prof
 *.ps
 tests/purs/make/
+.DS_Store
